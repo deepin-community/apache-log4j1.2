@@ -1,0 +1,6 @@
+build_fix.patch
+
+remove-activation-framework-dependency.patch
+add-missing-classes.patch
+CVE-2019-17571.patch
+disable-examples.patch
